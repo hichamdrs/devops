@@ -1,1 +1,3 @@
-Modif 3
+<<<<<<< HEAD
+Modif 2
+>>>>>>> feature-nouvelle-fonctionnalite
